@@ -46,7 +46,7 @@
 
 ## ChatGPT 镜像站快速使用教程
 
-1. 打开镜像站地址，🌟比如 `https://chatgpt.lanjing.ai/` 不用注册，扫码登录
+1. 打开镜像站地址，🌟比如 `https://chatgpt.lanjing.ai/` `https://www.yixiaai.com/` 不用注册，扫码登录
 2. 选择模型，比如 `GPT-4o`
 3. 输入问题，比如 `Hello, how are you?`
 4. 发送问题，等待回答
